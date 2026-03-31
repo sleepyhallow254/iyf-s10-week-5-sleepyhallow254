@@ -33,4 +33,4 @@ updating the webpage. The goal was to practice building interactive web pages.
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Sleepyhallow254/YOUR-REPO-NAME.git
+  git clone https://github.com/sleepyhallow254/iyf-s10-week-5-sleepyhallow254
